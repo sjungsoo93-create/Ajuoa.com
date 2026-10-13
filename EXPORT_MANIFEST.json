@@ -1,0 +1,23 @@
+{
+  "project": "ajuoa-land",
+  "version": 4,
+  "export_date": "2026-10-13",
+  "approved_hero_png_sha256": "5b705738ce67449360702c5d109e6ebf7037223963546f265b7ac22ba225d9ef",
+  "approved_hero_webp_sha256": "31de2a118557e2a1161b8f55a02a7119a24ad70c1272a6f6352201cdcaea7622",
+  "source_commit": "b8895a0b26beebbd91a836382eaba28dbe4d51cc",
+  "previous_version_commit": "3db9d5dd9221f9e217a91c8d2c3cca74519110ed",
+  "project_id": "appgprj_6acca7d17c208191adf31d4c5d4cb879",
+  "site_url": "https://ajuoa-land.calmkiwi4.chatgpt.site",
+  "changes": [
+    "Installation stories with image galleries, regions, models and dates",
+    "Admin login, logout, direct board create and edit links",
+    "SEO metadata, canonical URLs, BlogPosting, breadcrumbs and image sitemap",
+    "Domain setup and administrator guides"
+  ],
+  "packaging_modified_files": [
+    ".gitignore"
+  ],
+  "runtime_customer_data_included": false,
+  "secrets_included": false,
+  "deployment_archive_sha256": "e9a6af42c76c954e6f260130888fb6c1651aa37ee061a242723442c1ca91eb6a"
+}

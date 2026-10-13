@@ -1,0 +1,52 @@
+[
+  {
+    "key": "hero",
+    "prompt": "Use case: precise-object-edit. Edit target image 1 is the existing AJUOA LAND website office photograph. Product identity reference image 2 is an official FUJIFILM Apeos C3570 photograph. Replace ONLY the generic copier at the right of image 1 with this actual FUJIFILM Apeos C3570, matching reference 2 very closely. Preserve the warm sunlit Korean office, oak desks, glass partitions, plants, color grading, camera framing and right-side placement. Use a mostly front-facing slight three-quarter orientation. Precisely preserve the distinctive reference's white slim upright housing, rounded black front upper section, wide tablet touchscreen on the upper front-left, black recessed output tray below it, white document feeder, four paper drawers numbered 1 to 4, caster wheels. Include the exact FUJIFILM wordmark centered on the white front door and small Apeos C3570 model badge to the right of the screen in the same locations as the reference. No generic copier shapes and no competitor equipment. Fit the whole machine from document feeder to feet in frame around the same location as original. Render believable physical proportions, contact shadows, matte surfaces and natural matching light, not a pasted product cutout. This is an editorial website hero, not a catalog page: no extra logos, titles, floating text or watermarks. Preserve the original scene and existing layout-friendly composition. High resolution, landscape 16:9, preferably 2560x1440 or larger.",
+    "previousPrompt": "Use case: photorealistic-natural. Create one high resolution landscape 16:9 editorial architectural photograph for the homepage of a Korean business office equipment and IT maintenance company. A real quiet well-designed Korean office in afternoon natural light: warm ivory walls, oak desks, clean silver laptop and monitor on a desk at left midground, large modern white-and-charcoal multifunction office copier in foreground at right, understated black glass partition and a soft green tree at far right. Wide view at human eye level. Office copier must look mechanically plausible but generic, no logos, no model names, no trademarks. Tactile matte plastic, slight lived-in realism, subtle film grain, soft sunlight and shadows. Magazine-quality architectural photography, calm warm neutral palette with very subtle green accents. No people, no writing, no watermarks, no futuristic glowing technology. This will be a large hero photograph with website copy laid separately in HTML; do not put text in image. Highest available resolution.",
+    "asset": "/images/hero-fujifilm.webp",
+    "sourceImage": "assets/source-images/hero-fujifilm.png",
+    "referenceModel": "FUJIFILM Apeos C3570",
+    "referenceImage": "assets/reference-images/apeos-c3570-official.png",
+    "referenceSource": "https://www.fujifilm.com/fb-sp/fbkr/ko/sp/dx-officeprinters/img/01.png",
+    "updatedAt": "2026-10-13",
+    "width": 1672,
+    "height": 941,
+    "approvedByUser": true,
+    "preserveUnchanged": true,
+    "sourceSha256": "5b705738ce67449360702c5d109e6ebf7037223963546f265b7ac22ba225d9ef",
+    "webSha256": "31de2a118557e2a1161b8f55a02a7119a24ad70c1272a6f6352201cdcaea7622"
+  },
+  {
+    "key": "service",
+    "prompt": "Edit image 1 (service technician photo), using image 2 (approved hero) as the exact copier-model reference. Leave the hero image unchanged; output only the revised service photo.\n\nCORRECT THE LOWER PAPER-DRAWER STACK. The final copier must visibly have FOUR and ONLY FOUR paper drawer fronts, clearly numbered in top-to-bottom order: 1, 2, 3, 4. All four drawer numbers and all four handles MUST be visible in the finished service image. Match the hero's four drawer sizes and compact machine geometry. There must be no unlabeled fifth drawer and no missing drawer 2.\n\nTo make the count unambiguous, make drawer 1 almost closed, pulled forward only two centimeters, instead of the current very wide-open drawer that obscures other drawers. Adjust the technician's hands minimally so one is holding the first drawer's handle and the other is resting beside it while checking the drawer. Below it, show THREE separate fully closed drawers, with 2 on the first, 3 on the next, 4 on the bottom. The entire 1-2-3-4 stack and the caster base must fit in the lower right of the image. Directly below the FUJIFILM logo door is drawer 1, then 2, then 3, then 4, then wheels. Four visible handles, four visible numbers, four drawer fronts, no extra front panels with drawer handles. Count them before finishing.\n\nPreserve the existing top automatic document feeder, black display/output section, FUJIFILM wordmark and Apeos C3570 label, same service technician in navy, office, desk, laptop, warm natural daylight, viewpoint and landscape 3:2 framing. The copied hardware's width, overall silhouette and drawer proportions should match image 2. Do not change the approved hero; do not put the two images into a collage. This is a single photorealistic documentary service photo with only the copier's lower geometry and minimally necessary hand pose corrected. No captions, watermark or extra text. Highest resolution.",
+    "previousPrompt": "Use case: photorealistic-natural. High resolution landscape editorial photograph for a Korean office technology maintenance company. A Korean service technician in navy work shirt, seen in candid close three-quarter side view from shoulders down, carefully checking the paper tray and service compartment of a modern white business copier in a real office. Focus on credible hands holding a small tool and the actual equipment, laptop on nearby oak desk slightly out of focus. Soft window daylight, neutral ivory with subdued forest green background detail, realistic slightly imperfect surfaces. Professional documentary photography, not a posed stock-photo smile. Generic unbranded equipment. No logos, no readable text, no dramatic sci-fi effects. Frame 3:2.",
+    "asset": "/images/service-fujifilm-matched.webp",
+    "sourceImage": "assets/source-images/service-fujifilm-matched.png",
+    "referenceModel": "FUJIFILM Apeos C3570",
+    "referenceImage": "assets/source-images/hero-fujifilm.png",
+    "referenceSource": "https://www.fujifilm.com/fb-sp/fbkr/ko/sp/dx-officeprinters/img/01.png",
+    "updatedAt": "2026-10-13",
+    "width": 1536,
+    "height": 1024,
+    "priorEdits": [
+      {
+        "prompt": "Use case: precise-object-edit. Edit target image 1 is the existing AJUOA LAND maintenance service photograph. Product identity reference image 2 is an official FUJIFILM Apeos C3570. Replace the generic copier on the right with this actual FUJIFILM Apeos C3570, faithfully preserving the reference's distinct white body, rounded black upper front, large tablet touchscreen at upper front-left, recessed black output bay, white automatic document feeder, four paper drawers and actual FUJIFILM wordmark centered on the white front panel, small Apeos C3570 badge to screen right. Preserve the existing office, soft daylight, oak desk and laptop, candid Korean technician in navy shirt seen from behind-left, natural photo texture and restrained colors. Adjust only the technician's hand pose as needed to show a plausible routine inspection of the lower paper drawer: one hand pulling drawer 1 out a little, the other checking its paper guides. Keep the white front door with visible FUJIFILM wordmark closed; don't invent exposed mechanical compartments. Keep the touchscreen and top body identity readable and in frame. Product should be unmistakably same model as reference, with natural perspective and lighting. No hybrid generic machine, no extra branding or text overlays, no watermark. Landscape 3:2 composition, 2400x1600 or highest available resolution. Authentic documentary service image, not an advertisement pose.",
+        "asset": "/images/service-fujifilm.webp",
+        "sourceImage": "assets/source-images/service-fujifilm.png",
+        "referenceImage": "assets/reference-images/apeos-c3570-official.png",
+        "referenceModel": "FUJIFILM Apeos C3570",
+        "width": 1536,
+        "height": 1024
+      }
+    ],
+    "correction": "Exactly four drawers total: one open drawer 1, then three closed drawers 2, 3, 4. Remove extra unnumbered drawer."
+  },
+  {
+    "key": "pc",
+    "prompt": "Use case: photorealistic-natural. High resolution landscape editorial photograph for a Korean office PC and laptop support company. An immaculate but believable oak office desk with a charcoal business laptop with blank soft neutral screen, a small desktop PC, monitor, neatly arranged screwdriver and component tray, technician hands from edge gently checking laptop cable. Warm natural side lighting, muted off-white and dark forest green office background, sophisticated editorial office photography, shallow but legible depth, tactile realism. No logos, no readable text, no artificial glowing UI, no faces. Frame 3:2."
+  },
+  {
+    "key": "network",
+    "prompt": "Use case: photorealistic-natural. High resolution landscape editorial photograph for a Korean small-business network installation and maintenance service. Close clean view of a small office network cabinet, precisely but realistically organized ethernet patch panel with muted blue and grey cables, technician hand connecting one ethernet cable. Black matte rack with subtle real status LEDs, daylight entering from adjoining office. Warm neutral tone, deep charcoal and restrained green accents, realistic cable connectors and real small-office scale. Premium documentary photography, no giant data center, no neon, no logos, no text overlays. Frame 3:2."
+  }
+]

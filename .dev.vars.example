@@ -1,0 +1,5 @@
+# Local development only. Copy this file to .dev.vars.
+# The portable starter uses this demo identity for localhost sign-in.
+ADMIN_EMAILS=seedy@sites.test
+SITE_URL=http://localhost:5173
+PUBLIC_INDEXING=false
